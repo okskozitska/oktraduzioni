@@ -2,10 +2,10 @@
   links:
     - name: Home
       link: /
-    - name: Portfolio
-      link: /portfolio/
-    - name: Blog
-      link: /blog/
+    - name: Price & Service
+      link: /price-service/
+    - name: Promotion
+      link: /promotion/
     - name: About
       link: /about/
     - name: Contact
