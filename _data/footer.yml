@@ -3,7 +3,7 @@
     - name: Home
       link: /
     - name: Price & Service
-      link: /price-service/
+      link: /priceservice/
     - name: Promotion
       link: /promotion/
     - name: About
