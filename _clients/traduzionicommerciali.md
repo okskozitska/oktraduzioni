@@ -5,71 +5,36 @@ external_url:
 image_path: /images/clients/traduzionicommerciali.jpg
 ---
 
-Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/).
-Increase the web presence of your event with this configurable theme.
+Forniamo un servizio di traduzioni professionali dedicato alle aziende e ai liberi professionisti.
 
-CloudCannon was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+Siamo specializzati in traduzione in russo, ucraino e italiano di documenti tecnici (es. descrizioni macchinari, dati tecnici prodotti, lista ingredienti), email di lavoro, contratti, documenti informativi e molto altro.
 
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
+Inoltre se state cercando un interprete simultanea per incontri, meeting, fiere, cene d'affari o convegni, potete trovare le nostre tariffe qui.
 
-## Features
+## Prezzi e Pacchetti
 
-* Pre-built page
-* Pre-styled components
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [EventBrite](https://www.eventbrite.com/)
-* Contact Form
-* Featured
-* Image Gallery
+* EMAIL - 150 parole : **10 euro** (1 ora)
+* EMAIL - risposta urgente : **20 euro** (20 minuti)
+* DOCUMENTI TECNICI/INFORMATIVI: 1000 parole: **50 euro**
+* CONTRATTI: per pagina : **50 EURO**
+* SMS/WHATSAPP/IM MESSAGE: **10 euro**
+* NEWSLETTER: **25 euro**
+* IMMAGINE CON TESTO BREVE: **10 euro**
 
-## Setup
+## Richieste speciali
 
-1. Add your site details in `_config.yml`.
-2. Add your Google Analytics to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+Contattateci via email o attraverso il form di contatto, cercando di essere il più possibile esaustivi. Vi risponderemo entro 24 ore.
 
-## Develop
+## Tempistiche
 
-Malt was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Generalmente i documenti informativi e tecnici verranno consegnati entro 7gg lavorativi, se le pagine complessive sono inferiori a 10, altrimenti ci vorrà 1gg extra per ogni pagina.
 
-Install the dependencies with [Bundler](http://bundler.io/):
+SMS/WHATSAPP/IM MESSAGE e EMAIL non urgentu verranno tradotte entro 1 ora.
 
-~~~bash
-$ bundle install
-~~~
+Per i contratti l'attesa è variabile, generalmente l'attesa sarà di 1 pagina/gg. In caso di urgenze, con un supplemento di **25 euro** per pagina, si potrà dimezzare il tempo di attesa. Con un supplemento di **100 euro** per pagina si potrà ricevere entro un giorno 10 pagine tradotte.
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+Le Newsletter richiedono una attesa di 2/3gg.
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+## Pagamento
 
-## Editing
-
-Malt is already optimised for updating pages, company details and footer elements in CloudCannon.
-
-## SEO Tag
-
-This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) plugin. You should at least set a title in front matter on each page. Have a look at the [project page](https://github.com/jekyll/jekyll-seo-tag) for more options.
-
-## Google Analytics
-
-[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
-
-1. Add your Google Analytics key to `_config.yml`.
-2. Run your site in production `JEKYLL_ENV=production` (the default for CloudCannon and GitHub Pages).
-
-## EventBrite
-
-[EventBrite](https://www.eventbrite.com/) is a third party embeddable event module for websites. To install:
-
-1. Create an event on EventBrite.
-2. Copy the Ticket Form embed code from the Widgets menu item.
-3. Paste it into `eventbrite_embed` in `_config.yml`.
-
-## Image gallery / Featured
-
-The image gallery is populated by a front matter array in `index.html`. To add items just copy the existing structure.
+Il pagamento verrà concordato durante la trattativa iniziale.
