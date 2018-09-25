@@ -1,17 +1,17 @@
 title: Traduzioni
-url: "http://oksanakozitska.it"
-baseurl:
+url: "https://oksanakozitska.it/traduzioni"
+baseurl: "https://oksanakozitska.it/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Traduzioni professionali russo/ucraino/italiano, consulenze per la Russia e Ucraina, servizi di interpretariato e assistenza clienti in russo, ucraino e italiano.
 
 # Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
+author: OK | Traduzioni
+  name: Oksana Kozitska
+  email: oks.kozitska@gmail.com
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
@@ -41,6 +41,7 @@ plugins:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-archives"
+  - "jekyll-sitemap"
 
 exclude:
   - Gemfile
