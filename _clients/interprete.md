@@ -1,6 +1,6 @@
 ---
-name: Interprete - Meeting, Congressi, Cene d'affari e molto altro.
-subtitle: Interprete di russo e ucraino, ideale per meeting, fiere, stand, cene, convention, presentazioni ...
+name: Interprete - Meeting, congressi e molto altro.
+subtitle: Interprete di russo e ucraino, ideale per meeting, fiere, convention, cene d'affari
 external_url:
 image_path: /images/clients/interprete.jpg
 ---
