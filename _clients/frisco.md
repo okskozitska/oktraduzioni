@@ -1,11 +1,12 @@
 ---
 name: Traduzione semplice
-subtitle: traduzioni in ucraino e russo per il tuo sito web, cv, brochure informativa, menu ecc.
+subtitle: Traduzioni in ucraino e russo per il tuo sito web, cv, brochure informativa, menu ecc.
 external_url: 
 image_path: /images/clients/traduzionesitoweb.jpg
 ---
 
-Forniamo un servizio di traduzione professionale del vostro sito web, cv, brochure informativa, menu, dépliant ecc. sia in ucraino che in russo (oltre eventualmente in spagnolo, tedesco e ovviamente inglese).
+Forniamo un servizio di traduzione professionale del vostro sito web, cv, brochure informativa, menu, dépliant ecc. 
+Sia in ucraino che in russo (oltre eventualmente in spagnolo, tedesco e ovviamente inglese).
 
 ## Prezzi e Pacchetti
 
