@@ -24,12 +24,12 @@ Forniamo un servizio di traduzione professionale del vostro sito web, cv, brochu
 
 Per richieste speciali, come documenti tecnici, email lavorative o qualsiasi traduzione commerciale, cliccate qui.
 
-## TEMPISTICHE
+## Tempistiche
 
 Le traduzioni verranno consegnate generalmente entro 2/3 giorni lavorativi (dal momento della ricezione di tutti i documenti e del pagamento).
 Per traduzioni di documenti di oltre 1500 parole, i tempi si allungheranno di 1 giorno ogni 500 parole.
 
-## PAGAMENTO
+## Pagamento
 
 Il pagamento deve essere anticipato o via bonifico o via paypal o in contanti per cifre tra i **50 euro** e i **200 euro**.
 Il pagamento verrà eseguito al momento della consegna (sempre per le medesime via sopra riportate*) per cifre inferiori ai **50 euro**.
