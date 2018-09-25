@@ -1,8 +1,8 @@
 ---
-name: Malt Template
-subtitle: Event marketing template for Jekyll
-external_url: https://github.com/CloudCannon/malt-jekyll-template
-image_path: /images/clients/malt.jpg
+name: Traduzioni Commerciali
+subtitle: Per documenti tecnici, email, contratti, documenti informativi e molto altro.
+external_url: 
+image_path: /images/clients/traduzionicommerciali.jpg
 ---
 
 Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/).
