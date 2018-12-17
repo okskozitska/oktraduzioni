@@ -5,7 +5,7 @@ external_url:
 image_path: /images/clients/consulenzaeassistenza.png
 ---
 
-Se state cercando una consulenza commerciale o assistenza commerciale per lavori con aziende provenienti dalla Russia e dall'Ucraina o per futuri investimenti nell'EST Europa, possiamo fornirvi il nostro aiuto.
+Se state cercando una consulenza commerciale o assistenza commerciale per lavori con aziende provenienti dalla Russia e dall'Ucraina o per futuri investimenti nell'ESR Europa, possiamo fornirvi il nostro aiuto.
 
 ## Prezzi
 
